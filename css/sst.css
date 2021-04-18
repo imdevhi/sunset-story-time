@@ -64,10 +64,6 @@ main{
     height: 300px;
 }
 
-#ep-1{
-    background-color: coral;
-}
-
 #video-1{
     width: 50%;
     margin-left: 50%;
@@ -89,10 +85,6 @@ main{
     padding: 20px 50px;
 }
 
-#ep-2{
-    background-color: darkcyan;
-}
-
 #video-2{
     width: 50%;
     margin-left: 50%;
@@ -112,10 +104,6 @@ main{
 
 #text-2 p{
     padding: 20px 50px;
-}
-
-#ep-3{
-    background-color: darkred;
 }
 
 #video-3{
