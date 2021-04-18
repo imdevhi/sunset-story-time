@@ -26,7 +26,7 @@ nav{
     display: block;
     color: white;
     text-align: left;
-    font-size: 2em;
+    font-size: 1.75em;
 }
 
 #right-nav{
@@ -37,7 +37,7 @@ nav{
     display: block;
     color: white;
     text-align: center;
-    font-size: 1.5em;
+    font-size: 1.25em;
     float: right;
     padding-left: 20px;
 }
@@ -52,16 +52,19 @@ main{
     margin-top: 100px;
     margin-left: auto;
     margin-right: auto;
-    width: 80%;
+    width: 70%;
 }
 
 .clear{
     clear: both;
 }
 
-#intro{
-    background-color: chartreuse;
-    height: 300px;
+#intro p{
+    padding: 20px 50px;
+}
+
+#all-eps{
+    margin-top: 100px;
 }
 
 #video-1{
