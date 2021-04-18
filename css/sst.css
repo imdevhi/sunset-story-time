@@ -85,7 +85,8 @@ main{
 }
 
 #text-1 p{
-    padding: 35px;
+    padding-left: 50px;
+    padding-right: 50px;
 }
 
 #ep-2{
@@ -109,7 +110,8 @@ main{
 }
 
 #text-2 p{
-    padding: 35px;
+    padding-left: 50px;
+    padding-right: 50px;
 }
 
 #ep-3{
@@ -133,7 +135,8 @@ main{
 }
 
 #text-3 p{
-    padding: 35px;
+    padding-left: 50px;
+    padding-right: 50px;
 }
 
 #contact{
