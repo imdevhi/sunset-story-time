@@ -67,6 +67,10 @@ main{
     margin-top: 100px;
 }
 
+#ep-1{
+    margin-top: 100px;
+}
+
 #video-1{
     width: 50%;
     margin-left: 50%;
@@ -88,6 +92,10 @@ main{
     padding: 20px 50px;
 }
 
+#ep-2{
+    margin-top: 100px;
+}
+
 #video-2{
     width: 50%;
     margin-left: 50%;
@@ -107,6 +115,10 @@ main{
 
 #text-2 p{
     padding: 20px 50px;
+}
+
+#ep-3{
+    margin-top: 100px;
 }
 
 #video-3{
