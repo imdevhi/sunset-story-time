@@ -80,13 +80,13 @@ main{
 }
 
 #text-1 h2{
-    padding-top: 25px;
+    padding-top: 50px;
+    padding-bottom: 10px;
     text-align: center;
 }
 
 #text-1 p{
-    padding-left: 50px;
-    padding-right: 50px;
+    padding: 20px 50px;
 }
 
 #ep-2{
@@ -105,13 +105,13 @@ main{
 }
 
 #text-2 h2{
-    padding-top: 25px;
+    padding-top: 50px;
+    padding-bottom: 10px;
     text-align: center;
 }
 
 #text-2 p{
-    padding-left: 50px;
-    padding-right: 50px;
+    padding: 20px 50px;
 }
 
 #ep-3{
@@ -130,13 +130,13 @@ main{
 }
 
 #text-3 h2{
-    padding-top: 25px;
+    padding-top: 50px;
+    padding-bottom: 10px;
     text-align: center;
 }
 
 #text-3 p{
-    padding-left: 50px;
-    padding-right: 50px;
+    padding: 20px 50px;
 }
 
 #contact{
