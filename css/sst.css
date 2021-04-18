@@ -1,0 +1,146 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: small;
+}
+
+#all-content{
+    width: 90%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+nav{
+    margin: 0px;
+    overflow: hidden;
+    background-color: #333;
+    position: fixed;
+    top: 0;
+    width: 90%;
+}
+
+#left-nav{
+    padding-left: 30px;  
+}
+
+#left-nav h2{
+    display: block;
+    color: white;
+    text-align: left;
+    font-size: 2em;
+}
+
+#right-nav{
+    padding-right: 30px;
+}
+  
+#right-nav a{
+    display: block;
+    color: white;
+    text-align: center;
+    font-size: 1.5em;
+    float: right;
+    padding-left: 20px;
+}
+
+#header{
+    color: brown;
+    text-align: center;
+    margin-top: 200px;
+}
+
+main{
+    margin-top: 100px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 80%;
+}
+
+.clear{
+    clear: both;
+}
+
+#intro{
+    background-color: chartreuse;
+    height: 300px;
+}
+
+#ep-1{
+    background-color: coral;
+}
+
+#video-1{
+    width: 50%;
+    margin-left: 50%;
+    text-align: center;
+}
+
+#text-1{
+    width: 50%;
+    float: left;
+}
+
+#text-1 h2{
+    padding-top: 10px;
+    text-align: center;
+}
+
+#text-1 p{
+    padding: 25px;
+}
+
+#ep-2{
+    background-color: darkcyan;
+}
+
+#video-2{
+    width: 50%;
+    margin-left: 50%;
+    text-align: center;
+}
+
+#text-2{
+    width: 50%;
+    float: left;
+}
+
+#text-2 h2{
+    padding-top: 10px;
+    text-align: center;
+}
+
+#text-2 p{
+    padding: 25px;
+}
+
+#ep-3{
+    background-color: darkred;
+}
+
+#video-3{
+    width: 50%;
+    margin-left: 50%;
+    text-align: center;
+}
+
+#text-3{
+    width: 50%;
+    float: left;
+}
+
+#text-3 h2{
+    padding-top: 10px;
+    text-align: center;
+}
+
+#text-3 p{
+    padding: 25px;
+}
+
+#contact{
+    background-color: dimgray;
+    height: 300px;
+}
+
+footer{
+    background-color: goldenrod;
+}
