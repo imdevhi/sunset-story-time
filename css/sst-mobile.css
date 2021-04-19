@@ -129,15 +129,14 @@
     #video-1{
         width: 80%;
         text-align: center;
-        float: right;
     }
     
     #text-1{
         width: 100%;
+        margin-top: 25px;
     }
     
     #text-1 h2{
-        margin-top: 25px;
         padding-top: 10px;
         padding-bottom: 10px;
         text-align: center;
@@ -158,15 +157,14 @@
     #video-2{
         width: 80%;
         text-align: center;
-        float: right;
     }
     
     #text-2{
         width: 100%;
+        margin-top: 25px;
     }
     
     #text-2 h2{
-        margin-top: 25px;
         padding-top: 10px;
         padding-bottom: 10px;
         text-align: center;
@@ -187,15 +185,14 @@
     #video-3{
         width: 80%;
         text-align: center;
-        float: right;
     }
     
     #text-3{
         width: 100%;
+        margin-top: 25px;
     }
     
     #text-3 h2{
-        margin-top: 25px;
         padding-top: 10px;
         padding-bottom: 10px;
         text-align: center;
