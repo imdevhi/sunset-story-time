@@ -30,6 +30,7 @@
     }
     
     #left-nav h1{
+        display: block;
         color: #ffffff;
         font-size: 3em;
         font-family: 'Denk One', sans-serif;
@@ -46,6 +47,7 @@
     }
         
     #right-nav a{
+        display: block;
         float: right;
         color: #ffffff;
         text-align: center;
