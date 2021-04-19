@@ -137,6 +137,10 @@ main{
     float: right;
 }
 
+#text-1{
+    width: 50%;
+}
+
 #text-1 h2{
     padding-top: 50px;
     padding-bottom: 10px;
@@ -159,6 +163,10 @@ main{
     width: 500px;
     text-align: center;
     float: right;
+}
+
+#text-2{
+    width: 50%;
 }
 
 #text-2 h2{
@@ -185,6 +193,10 @@ main{
     float: right;
 }
 
+#text-3{
+    width: 50%;
+}
+
 #text-3 h2{
     padding-top: 50px;
     padding-bottom: 10px;
@@ -199,11 +211,14 @@ main{
     font-size: 1.5em;
 }
 
+/* episodes mobile phones */
 @media only screen and (max-width: 768px) {
-    /* For mobile phones: */
-    [class*="ep-"] {
-      width: 100%;
-    }
+    #text-1{width: 100%;}
+    #video-1{width: 100%;}
+    #text-2{width: 100%;}
+    #video-2{width: 100%;}
+    #text-3{width: 100%;}
+    #video-3{width: 100%;}
 }
 
 /* contact */
