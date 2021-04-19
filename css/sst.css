@@ -215,15 +215,15 @@ main{
 @media only screen and (max-width: 600px) {
     .col-text-1{
         width: 100%;
-        flex-wrap: nowrap;
+        flex-basis: 100%;
     }
     .col-text-2{
         width: 100%;
-        flex-wrap: nowrap;
+        flex-basis: 100%;
     }
     .col-text-3{
         width: 100%;
-        flex-wrap: nowrap;
+        flex-basis: 100%;
     }
     .col-video-1{width: 100%;}
     .col-video-2{width: 100%;}
