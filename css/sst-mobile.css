@@ -34,16 +34,18 @@
         color: #ffffff;
         font-size: 2em;
         font-family: 'Denk One', sans-serif;
+        text-align: center;
     }
     
     #right-nav{
         padding-right: 10px;
         width: 100%;
-        float: right;
+        text-align: center;
     }
         
     #right-nav a{
         color: #ffffff;
+        float: right;
         text-align: center;
         font-size: 1.5em;
         font-family: 'Denk One', sans-serif;
