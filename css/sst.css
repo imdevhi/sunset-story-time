@@ -127,7 +127,7 @@ main{
     font-size: 2em;
 }
 
-@media only screen and (min-width: 600px) {
+@media only screen and (min-width: 768px) {
     #text-1{width: 50%;}
     #text-2{width: 50%;}
     #text-3{width: 50%;}
@@ -220,7 +220,7 @@ main{
     font-size: 1.5em;
 }
 
-@media only screen and (max-width: 600px) {
+@media only screen and (max-width: 768px) {
     #text-1{width: 100%;}
     #text-2{width: 100%;}
     #text-3{width: 100%;}
