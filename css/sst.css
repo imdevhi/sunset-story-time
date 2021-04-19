@@ -25,19 +25,19 @@ nav{
 
 #left-nav{
     padding-left: 40px;  
-    width: 50%;
+    width: 40%;
 }
 
 #left-nav h1{
     display: block;
     color: #ffffff;
-    font-size: 3.5em;
+    font-size: 3em;
     font-family: 'Denk One', sans-serif;
 }
 
 #right-nav{
     padding-right: 40px;
-    width: 50%;
+    width: 60%;
     margin-left: 50%;
     float: right;
     position: absolute;
