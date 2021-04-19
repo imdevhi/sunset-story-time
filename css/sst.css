@@ -136,13 +136,12 @@
     }
 
     #video-1{
-        width: 500px;
         text-align: center;
-        float: right;
     }
 
     #text-1{
         width: 50%;
+        float: left;
     }
 
     #text-1 h2{
@@ -164,13 +163,12 @@
     }
 
     #video-2{
-        width: 500px;
         text-align: center;
-        float: right;
     }
 
     #text-2{
         width: 50%;
+        float: left;
     }
 
     #text-2 h2{
@@ -192,13 +190,12 @@
     }
 
     #video-3{
-        width: 500px;
         text-align: center;
-        float: right;
     }
 
     #text-3{
         width: 50%;
+        float: left;
     }
 
     #text-3 h2{
