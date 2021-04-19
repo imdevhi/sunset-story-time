@@ -212,7 +212,7 @@ main{
 }
 
 /* episodes mobile phones */
-@media only screen and (max-width: 576px) {
+@media (max-width: 576px) {
     .col-text-1{width: 100%;}
     .col-text-2{width: 100%;}
     .col-text-3{width: 100%;}
