@@ -20,10 +20,11 @@
     
     nav{
         margin: 0px;
-        background-color: #e67e00;
         overflow: hidden;
+        background-color: #e67e00;
+        position: fixed;
         top: 0;
-        width: 100%;
+        width: 90%;
     }
 
     #back-to-top{
