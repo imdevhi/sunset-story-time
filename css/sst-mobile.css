@@ -26,7 +26,7 @@
     
     #left-nav{
         padding-left: 40px;  
-        width: 40%;
+        width: 100%;
     }
     
     #left-nav h1{
@@ -38,8 +38,7 @@
     
     #right-nav{
         padding-right: 40px;
-        width: 60%;
-        margin-left: 50%;
+        width: 100%;
         float: right;
         position: absolute;
         bottom: 16px;
