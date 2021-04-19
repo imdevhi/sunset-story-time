@@ -121,6 +121,15 @@
         text-align: center;
         font-size: 2em;
     }
+
+    #all-eps a{
+        font-family: 'Yanone Kaffeesatz', sans-serif;
+        color: #000000;
+    }
+
+    #all-eps a:hover{
+        color: #e67e00;
+    }
     
     #ep-1{
         margin-top: 50px;
