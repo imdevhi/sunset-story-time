@@ -41,9 +41,6 @@
         padding-right: 10px;
         width: 100%;
         float: right;
-        position: absolute;
-        bottom: 16px;
-        right: 16px;
     }
         
     #right-nav a{
@@ -63,13 +60,13 @@
     }
     
     #header-image{
-        width: 40%;
+        width: 100%;
         float: right;
         text-align: right;
     }
     
     #header-text{
-        width: 60%;
+        width: 100%
     }
     
     #header h2{
@@ -91,7 +88,6 @@
         margin-top: 100px;
         margin-left: auto;
         margin-right: auto;
-        width: 90%;
     }
     
     .clear{
@@ -111,7 +107,7 @@
     }
     
     #intro p{
-        padding: 20px 50px;
+        padding: 10px;
         font-family: 'Yanone Kaffeesatz', sans-serif;
         font-size: 1.5em;
     }
@@ -143,7 +139,7 @@
     }
     
     #text-1 h2{
-        padding-top: 50px;
+        padding-top: 10px;
         padding-bottom: 10px;
         text-align: center;
         font-family: 'Denk One', sans-serif;
@@ -151,7 +147,7 @@
     }
     
     #text-1 p{
-        padding: 20px 50px;
+        padding: 10px;
         font-family: 'Yanone Kaffeesatz', sans-serif;
         font-size: 1.5em;
     }
@@ -171,7 +167,7 @@
     }
     
     #text-2 h2{
-        padding-top: 50px;
+        padding-top: 10px;
         padding-bottom: 10px;
         text-align: center;
         font-family: 'Denk One', sans-serif;
@@ -179,7 +175,7 @@
     }
     
     #text-2 p{
-        padding: 20px 50px;
+        padding: 10px;
         font-family: 'Yanone Kaffeesatz', sans-serif;
         font-size: 1.5em;
     }
@@ -199,7 +195,7 @@
     }
     
     #text-3 h2{
-        padding-top: 50px;
+        padding-top: 10px;
         padding-bottom: 10px;
         text-align: center;
         font-family: 'Denk One', sans-serif;
@@ -207,7 +203,7 @@
     }
     
     #text-3 p{
-        padding: 20px 50px;
+        padding: 10px;
         font-family: 'Yanone Kaffeesatz', sans-serif;
         font-size: 1.5em;
     }
@@ -225,7 +221,7 @@
     }
     
     #contact p{
-        padding: 20px 50px;
+        padding: 10px 10px;
         font-family: 'Yanone Kaffeesatz', sans-serif;
         font-size: 1.5em;
     }
@@ -235,7 +231,7 @@
     footer{
         margin-top: 100px;
         background-color: #e67e00;
-        padding: 20px 50px 40px 50px;
+        padding: 10px;
     }
     
     footer p{
