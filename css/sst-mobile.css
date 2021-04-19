@@ -21,6 +21,7 @@
     nav{
         margin: 0px;
         background-color: #e67e00;
+        overflow: hidden;
         top: 0;
         width: 100%;
     }
