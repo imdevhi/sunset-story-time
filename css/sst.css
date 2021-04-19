@@ -212,19 +212,10 @@ main{
 }
 
 /* episodes mobile phones */
-@media only screen and (max-width: 600px) {
-    .col-text-1{
-        width: 100%;
-        flex-basis: 100%;
-    }
-    .col-text-2{
-        width: 100%;
-        flex-basis: 100%;
-    }
-    .col-text-3{
-        width: 100%;
-        flex-basis: 100%;
-    }
+@media only screen and (max-width: 576px) {
+    .col-text-1{width: 100%;}
+    .col-text-2{width: 100%;}
+    .col-text-3{width: 100%;}
     .col-video-1{width: 100%;}
     .col-video-2{width: 100%;}
     .col-video-3{width: 100%;}
