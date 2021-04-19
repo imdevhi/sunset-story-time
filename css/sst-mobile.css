@@ -45,12 +45,10 @@
         
     #right-nav a{
         display: block;
-        float: right;
         color: #ffffff;
         text-align: center;
         font-size: 1.5em;
         font-family: 'Denk One', sans-serif;
-        padding-left: 20px;
     }
     
     /* header under nav */
@@ -237,7 +235,7 @@
         color: #ffffff;
         text-align: center;
         font-family: 'Yanone Kaffeesatz', sans-serif;
-        font-size: 1.5em;
+        font-size: 1.2em;
     }
     
     #links{
@@ -247,7 +245,7 @@
     footer a{
         color: #ffffff;
         font-family: 'Yanone Kaffeesatz', sans-serif;
-        font-size: 1.5em;
+        font-size: 1.2em;
     }
 
 }
