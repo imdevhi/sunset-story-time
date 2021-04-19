@@ -127,95 +127,103 @@ main{
     font-size: 2em;
 }
 
-#ep-1{
-    margin-top: 100px;
-}
+@media only screen and (min-width: 600px) {
 
-.col-video-1{
-    width: 500px;
-    text-align: center;
-    float: right;
-}
+    #ep-1{
+        margin-top: 100px;
+    }
 
-.col-text-1{
-    width: 50%;
-}
+    .col-video-1{
+        width: 500px;
+        text-align: center;
+        float: right;
+    }
 
-.col-text-1 h2{
-    padding-top: 50px;
-    padding-bottom: 10px;
-    text-align: center;
-    font-family: 'Denk One', sans-serif;
-    font-size: 2em;
-}
+    .col-text-1{
+        width: 50%;
+    }
 
-.col-text-1 p{
-    padding: 20px 50px;
-    font-family: 'Yanone Kaffeesatz', sans-serif;
-    font-size: 1.5em;
-}
+    .col-text-1 h2{
+        padding-top: 50px;
+        padding-bottom: 10px;
+        text-align: center;
+        font-family: 'Denk One', sans-serif;
+        font-size: 2em;
+    }
 
-#ep-2{
-    margin-top: 100px;
-}
+    .col-text-1 p{
+        padding: 20px 50px;
+        font-family: 'Yanone Kaffeesatz', sans-serif;
+        font-size: 1.5em;
+    }
 
-.col-video-2{
-    width: 500px;
-    text-align: center;
-    float: right;
-}
+    #ep-2{
+        margin-top: 100px;
+    }
 
-.col-text-2{
-    width: 50%;
-}
+    .col-video-2{
+        width: 500px;
+        text-align: center;
+        float: right;
+    }
 
-.col-text-2 h2{
-    padding-top: 50px;
-    padding-bottom: 10px;
-    text-align: center;
-    font-family: 'Denk One', sans-serif;
-    font-size: 2em;
-}
+    .col-text-2{
+        width: 50%;
+    }
 
-.col-text-2 p{
-    padding: 20px 50px;
-    font-family: 'Yanone Kaffeesatz', sans-serif;
-    font-size: 1.5em;
-}
+    .col-text-2 h2{
+        padding-top: 50px;
+        padding-bottom: 10px;
+        text-align: center;
+        font-family: 'Denk One', sans-serif;
+        font-size: 2em;
+    }
 
-#ep-3{
-    margin-top: 100px;
-}
+    .col-text-2 p{
+        padding: 20px 50px;
+        font-family: 'Yanone Kaffeesatz', sans-serif;
+        font-size: 1.5em;
+    }
 
-.col-video-3{
-    width: 500px;
-    text-align: center;
-    float: right;
-}
+    #ep-3{
+        margin-top: 100px;
+    }
 
-.col-text-3{
-    width: 50%;
-}
+    .col-video-3{
+        width: 500px;
+        text-align: center;
+        float: right;
+    }
 
-.col-text-3 h2{
-    padding-top: 50px;
-    padding-bottom: 10px;
-    text-align: center;
-    font-family: 'Denk One', sans-serif;
-    font-size: 2em;
-}
+    .col-text-3{
+        width: 50%;
+    }
 
-.col-text-3 p{
-    padding: 20px 50px;
-    font-family: 'Yanone Kaffeesatz', sans-serif;
-    font-size: 1.5em;
+    .col-text-3 h2{
+        padding-top: 50px;
+        padding-bottom: 10px;
+        text-align: center;
+        font-family: 'Denk One', sans-serif;
+        font-size: 2em;
+    }
+
+    .col-text-3 p{
+        padding: 20px 50px;
+        font-family: 'Yanone Kaffeesatz', sans-serif;
+        font-size: 1.5em;
+    }
+
 }
 
 /* episodes mobile phones */
-@media (max-width: 576px) {
+
+@media only screen and (max-width: 600px) {
     .col-text-1{width: 100%;}
     .col-text-2{width: 100%;}
     .col-text-3{width: 100%;}
+    .col-video-1{width: 100%;}
+    .col-video-2{width: 100%;}
+    .col-video-3{width: 100%;}
 }
 
 /* contact */
