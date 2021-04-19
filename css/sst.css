@@ -1,6 +1,6 @@
 /* for desktops */
 
-@media (min-width: 768px) {
+@media only screen and (min-width: 768px) {
 
     /* general rules */
 
@@ -262,10 +262,10 @@
 
 /* mobile devices */
 
-@media (max-width: 768px) {
+@media only screen and (max-width: 768px) {
 
     /* episode list */
-    
+
     #text-1{width: 100%;}
     #text-2{width: 100%;}
     #text-3{width: 100%;}
