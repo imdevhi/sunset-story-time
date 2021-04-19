@@ -26,12 +26,12 @@
         top: 0;
         width: 100%;
     }
-    
-    #back-to-top a{
+
+    #back-to-top{
         display: none;
     }
-
-    #back-to-top a:hover{
+    
+    #back-to-top a{
         display: none;
     }
       
