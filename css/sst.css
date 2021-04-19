@@ -132,13 +132,13 @@ main{
 }
 
 #video-1{
-    width: 50%;
+    width: 60%;
     margin-left: 50%;
     text-align: center;
 }
 
 #text-1{
-    width: 50%;
+    width: 40%;
     float: left;
 }
 
@@ -161,13 +161,13 @@ main{
 }
 
 #video-2{
-    width: 50%;
+    width: 60%;
     margin-left: 50%;
     text-align: center;
 }
 
 #text-2{
-    width: 50%;
+    width: 40%;
     float: left;
 }
 
@@ -190,13 +190,13 @@ main{
 }
 
 #video-3{
-    width: 50%;
+    width: 60%;
     margin-left: 50%;
     text-align: center;
 }
 
 #text-3{
-    width: 50%;
+    width: 40%;
     float: left;
 }
 
