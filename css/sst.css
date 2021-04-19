@@ -27,42 +27,40 @@
         width: 90%;
     }
 
-    #left-nav{
-        float: left;
-        padding-left: 40px;  
-        width: 40%;
-    }
-
-    #left-nav h1{
-        display: block;
-        color: #ffffff;
-        font-size: 3em;
-        font-family: 'Denk One', sans-serif;
-    }
-
-    #right-nav{
-        padding-right: 40px;
-        width: 60%;
-        margin-left: 50%;
-        position: absolute;
-        bottom: 16px;
-        right: 16px;
-    }
-    
-    #right-nav a{
+    #back-to-top a{
         display: block;
         float: right;
-        color: #ffffff;
+        color: white;
         text-align: center;
-        font-size: 1.5em;
         font-family: 'Denk One', sans-serif;
-        padding-left: 20px;
+        font-size: 1.5em;
+        padding: 14px 16px;
+        text-decoration: none;
+    }
+
+    #back-to-top a:hover{
+        color: #000000;
+    }
+      
+    #menu a{
+        display: block;
+        float: left;
+        color: white;
+        text-align: center;
+        font-family: 'Denk One', sans-serif;
+        font-size: 1.5em;
+        padding: 14px 16px;
+        text-decoration: none;
+    }
+
+    #menu a:hover{
+        color: #000000;
     }
 
     /* header under nav */
 
     #header{
-        margin-top: 300px;
+        margin-top: 200px;
     }
 
     #header-image{
@@ -253,6 +251,10 @@
         color: #ffffff;
         font-family: 'Yanone Kaffeesatz', sans-serif;
         font-size: 1.5em;
+    }
+
+    footer a:hover{
+        color: #000000;
     }
 
 }
