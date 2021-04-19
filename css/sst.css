@@ -128,96 +128,91 @@ main{
 }
 
 @media only screen and (min-width: 768px) {
-    #text-1{width: 50%;}
-    #text-2{width: 50%;}
-    #text-3{width: 50%;}
-    #video-1{width: 50%;}
-    #video-2{width: 50%;}
-    #video-3{width: 50%;}
-}
 
-#ep-1{
-    margin-top: 100px;
-}
+    #ep-1{
+        margin-top: 100px;
+    }
 
-#video-1{
-    width: 500px;
-    text-align: center;
-    float: right;
-}
+    #video-1{
+        width: 500px;
+        text-align: center;
+        float: right;
+    }
 
-#text-1{
-    width: 50%;
-}
+    #text-1{
+        width: 50%;
+    }
 
-#text-1 h2{
-    padding-top: 50px;
-    padding-bottom: 10px;
-    text-align: center;
-    font-family: 'Denk One', sans-serif;
-    font-size: 2em;
-}
+    #text-1 h2{
+        padding-top: 50px;
+        padding-bottom: 10px;
+        text-align: center;
+        font-family: 'Denk One', sans-serif;
+        font-size: 2em;
+    }
 
-#text-1 p{
-    padding: 20px 50px;
-    font-family: 'Yanone Kaffeesatz', sans-serif;
-    font-size: 1.5em;
-}
+    #text-1 p{
+        padding: 20px 50px;
+        font-family: 'Yanone Kaffeesatz', sans-serif;
+        font-size: 1.5em;
+    }
 
-#ep-2{
-    margin-top: 100px;
-}
+    #ep-2{
+        margin-top: 100px;
+    }
 
-#video-2{
-    width: 500px;
-    text-align: center;
-    float: right;
-}
+    #video-2{
+        width: 500px;
+        text-align: center;
+        float: right;
+    }
 
-#text-2{
-    width: 50%;
-}
+    #text-2{
+        width: 50%;
+    }
 
-#text-2 h2{
-    padding-top: 50px;
-    padding-bottom: 10px;
-    text-align: center;
-    font-family: 'Denk One', sans-serif;
-    font-size: 2em;
-}
+    #text-2 h2{
+        padding-top: 50px;
+        padding-bottom: 10px;
+        text-align: center;
+        font-family: 'Denk One', sans-serif;
+        font-size: 2em;
+    }
 
-#text-2 p{
-    padding: 20px 50px;
-    font-family: 'Yanone Kaffeesatz', sans-serif;
-    font-size: 1.5em;
-}
+    #text-2 p{
+        padding: 20px 50px;
+        font-family: 'Yanone Kaffeesatz', sans-serif;
+        font-size: 1.5em;
+    }
 
-#ep-3{
-    margin-top: 100px;
-}
+    #ep-3{
+        margin-top: 100px;
+    }
 
-#video-3{
-    width: 500px;
-    text-align: center;
-    float: right;
-}
+    #video-3{
+        width: 500px;
+        text-align: center;
+        float: right;
+    }
 
-#text-3{
-    width: 50%;
-}
+    #text-3{
+        width: 50%;
+    }
 
-#text-3 h2{
-    padding-top: 50px;
-    padding-bottom: 10px;
-    text-align: center;
-    font-family: 'Denk One', sans-serif;
-    font-size: 2em;
-}
+    #text-3 h2{
+        padding-top: 50px;
+        padding-bottom: 10px;
+        text-align: center;
+        font-family: 'Denk One', sans-serif;
+        font-size: 2em;
+    }
 
-#text-3 p{
-    padding: 20px 50px;
-    font-family: 'Yanone Kaffeesatz', sans-serif;
-    font-size: 1.5em;
+    #text-3 p{
+        padding: 20px 50px;
+        font-family: 'Yanone Kaffeesatz', sans-serif;
+        font-size: 1.5em;
+    }
+
 }
 
 @media only screen and (max-width: 768px) {
