@@ -28,18 +28,11 @@
     }
     
     #back-to-top a{
-        display: block;
-        float: right;
-        color: white;
-        text-align: center;
-        font-family: 'Denk One', sans-serif;
-        font-size: 1.5em;
-        padding: 14px 16px;
-        text-decoration: none;
+        display: none;
     }
 
     #back-to-top a:hover{
-        color: #000000;
+        display: none;
     }
       
     #menu a{
