@@ -22,7 +22,7 @@
         margin: 0px;
         overflow: hidden;
         background-color: #e67e00;
-        position: fixed;
+        position: absolute;
         top: 0;
         left: 0;
         right: 0;
