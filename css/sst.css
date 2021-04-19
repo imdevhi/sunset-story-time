@@ -259,19 +259,3 @@
     }
 
 }
-
-/* mobile devices */
-
-@media only screen and (max-width: 768px) {
-
-    /* episode list */
-
-    #text-1{width: 100%;}
-    #text-2{width: 100%;}
-    #text-3{width: 100%;}
-    #video-1{width: 100%;}
-    #video-2{width: 100%;}
-    #video-3{width: 100%;}
-
-
-}
