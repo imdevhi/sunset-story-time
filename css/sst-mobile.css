@@ -34,7 +34,7 @@
         color: #ffffff;
         font-size: 2em;
         font-family: 'Denk One', sans-serif;
-        text-align: center;
+        text-align: left;
     }
     
     #right-nav{
@@ -45,9 +45,10 @@
         
     #right-nav a{
         color: #ffffff;
+        padding: 5px 10px;
         float: right;
         text-align: center;
-        font-size: 1.5em;
+        font-size: 1.3em;
         font-family: 'Denk One', sans-serif;
     }
     
@@ -60,7 +61,7 @@
     #header-image{
         width: 100%;
         float: right;
-        text-align: right;
+        text-align: center;
     }
     
     #header-text{
@@ -70,13 +71,13 @@
     #header h2{
         font-family: 'Denk One', sans-serif;
         font-size: 3em;
-        text-align: left;
+        text-align: center;
     }
     
     #header h3{
         font-family: 'Yanone Kaffeesatz', sans-serif;
         font-size: 2em;
-        text-align: left;
+        text-align: center;
     }
     
     /* body rules */
@@ -126,7 +127,7 @@
     }
     
     #video-1{
-        width: 100%;
+        width: 80%;
         text-align: center;
         float: right;
     }
@@ -136,6 +137,7 @@
     }
     
     #text-1 h2{
+        margin-top: 25px;
         padding-top: 10px;
         padding-bottom: 10px;
         text-align: center;
@@ -154,7 +156,7 @@
     }
     
     #video-2{
-        width: 100%;
+        width: 80%;
         text-align: center;
         float: right;
     }
@@ -164,6 +166,7 @@
     }
     
     #text-2 h2{
+        margin-top: 25px;
         padding-top: 10px;
         padding-bottom: 10px;
         text-align: center;
@@ -182,7 +185,7 @@
     }
     
     #video-3{
-        width: 100%;
+        width: 80%;
         text-align: center;
         float: right;
     }
@@ -192,6 +195,7 @@
     }
     
     #text-3 h2{
+        margin-top: 25px;
         padding-top: 10px;
         padding-bottom: 10px;
         text-align: center;
@@ -228,7 +232,7 @@
     footer{
         margin-top: 100px;
         background-color: #e67e00;
-        padding: 10px;
+        padding: 10px 10px 20px 10px;
     }
     
     footer p{
