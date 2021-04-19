@@ -26,19 +26,19 @@
     }
     
     #left-nav{
-        padding-left: 40px;  
+        padding-left: 10px;  
         width: 100%;
     }
     
     #left-nav h1{
         display: block;
         color: #ffffff;
-        font-size: 3em;
+        font-size: 2em;
         font-family: 'Denk One', sans-serif;
     }
     
     #right-nav{
-        padding-right: 40px;
+        padding-right: 10px;
         width: 100%;
         float: right;
         position: absolute;
