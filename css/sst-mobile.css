@@ -25,31 +25,34 @@
         width: 100%;
     }
     
-    #left-nav{
-        padding-left: 10px;  
-        width: 100%;
-    }
-    
-    #left-nav h1{
-        color: #ffffff;
-        font-size: 2em;
-        font-family: 'Denk One', sans-serif;
-        text-align: left;
-    }
-    
-    #right-nav{
-        padding-right: 10px;
-        width: 100%;
-        text-align: center;
-    }
-        
-    #right-nav a{
-        color: #ffffff;
-        padding: 5px 10px;
+    #back-to-top a{
+        display: block;
         float: right;
+        color: white;
         text-align: center;
-        font-size: 1.3em;
         font-family: 'Denk One', sans-serif;
+        font-size: 1.5em;
+        padding: 14px 16px;
+        text-decoration: none;
+    }
+
+    #back-to-top a:hover{
+        color: #000000;
+    }
+      
+    #menu a{
+        display: block;
+        float: left;
+        color: white;
+        text-align: center;
+        font-family: 'Denk One', sans-serif;
+        font-size: 1.5em;
+        padding: 14px 16px;
+        text-decoration: none;
+    }
+
+    #menu a:hover{
+        color: #000000;
     }
     
     /* header under nav */
