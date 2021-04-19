@@ -74,13 +74,13 @@ nav{
 #header h2{
     padding-top: 150px;
     font-family: 'Denk One', sans-serif;
-    font-size: 4em;
+    font-size: 3em;
     text-align: left;
 }
 
 #header h3{
     font-family: 'Yanone Kaffeesatz', sans-serif;
-    font-size: 3em;
+    font-size: 2em;
     text-align: left;
 }
 
@@ -106,7 +106,7 @@ main{
 #intro h2{
     font-family: 'Denk One', sans-serif;
     text-align: center;
-    font-size: 3em;
+    font-size: 2em;
 }
 
 #intro p{
@@ -124,7 +124,7 @@ main{
 #all-eps h2{
     font-family: 'Denk One', sans-serif;
     text-align: center;
-    font-size: 3em;
+    font-size: 2em;
 }
 
 #ep-1{
@@ -147,7 +147,7 @@ main{
     padding-bottom: 10px;
     text-align: center;
     font-family: 'Denk One', sans-serif;
-    font-size: 2.5em;
+    font-size: 2em;
 }
 
 #text-1 p{
@@ -176,7 +176,7 @@ main{
     padding-bottom: 10px;
     text-align: center;
     font-family: 'Denk One', sans-serif;
-    font-size: 2.5em;
+    font-size: 2em;
 }
 
 #text-2 p{
@@ -205,7 +205,7 @@ main{
     padding-bottom: 10px;
     text-align: center;
     font-family: 'Denk One', sans-serif;
-    font-size: 2.5em;
+    font-size: 2em;
 }
 
 #text-3 p{
@@ -223,7 +223,7 @@ main{
 #contact h2{
     text-align: center;
     font-family: 'Denk One', sans-serif;
-    font-size: 3em;
+    font-size: 2em;
 }
 
 #contact p{
