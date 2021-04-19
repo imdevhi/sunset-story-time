@@ -24,15 +24,22 @@
         background-color: #e67e00;
         position: fixed;
         top: 0;
-        width: 90%;
+        width: 100%;
     }
 
-    #back-to-top{
-        display: none;
-    }
-    
     #back-to-top a{
-        display: none;
+        display: block;
+        float: right;
+        color: white;
+        text-align: center;
+        font-family: 'Denk One', sans-serif;
+        font-size: 1.5em;
+        padding: 14px 16px;
+        text-decoration: none;
+    }
+
+    #back-to-top a:hover{
+        color: #000000;
     }
       
     #menu a{
