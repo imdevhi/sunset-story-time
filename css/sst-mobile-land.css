@@ -18,10 +18,6 @@
     
     /* navigation */
 
-    header{
-        z-index:1;
-    }
-
     nav{
         margin: 0px;
         overflow: hidden;
@@ -31,7 +27,7 @@
         left: 0;
         right: 0;
         width: 100%;
-        z-index:1;
+        z-index: 1;
     }
 
     .nav-block{
