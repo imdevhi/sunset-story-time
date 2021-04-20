@@ -239,6 +239,16 @@
         padding: 10px 10px;
         font-family: 'Yanone Kaffeesatz', sans-serif;
         font-size: 1.5em;
+        text-align: center;
+    }
+
+    #contact a{
+        font-family: 'Yanone Kaffeesatz', sans-serif;
+        color: #000000;
+    }
+
+    #contact a:hover{
+        color: #e67e00;
     }
     
     /* footer */
