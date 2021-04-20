@@ -1,0 +1,292 @@
+/* tablets */
+
+@media only screen and (min-width: 601px) and (max-width: 768px){
+
+    /* general rules */
+
+    body{
+        font-family: Arial, Helvetica, sans-serif;
+        font-size: small;
+        color: #000000;
+    }
+    
+    #all-content{
+        width: 100%;
+        margin-left: auto;
+        margin-right: auto;
+    }
+    
+    /* navigation */
+
+    header{
+        z-index:1;
+    }
+
+    nav{
+        margin: 0px;
+        overflow: hidden;
+        background-color: #e67e00;
+        position: fixed;
+        top: 0;
+        left: 0;
+        right: 0;
+        width: 100%;
+        z-index:1;
+    }
+
+    .nav-block{
+        display: none;
+    }
+
+    #back-to-top a{
+        display: block;
+        float: right;
+        color: white;
+        text-align: center;
+        font-family: 'Denk One', sans-serif;
+        font-size: 1.5em;
+        padding: 14px 16px;
+        text-decoration: none;
+    }
+
+    #back-to-top a:hover{
+        color: #000000;
+    }
+      
+    #menu a{
+        display: block;
+        float: left;
+        color: white;
+        text-align: center;
+        font-family: 'Denk One', sans-serif;
+        font-size: 1.3em;
+        padding: 14px 16px;
+        text-decoration: none;
+    }
+
+    #menu a:hover{
+        color: #000000;
+    }
+    
+    /* header under nav */
+    
+    #header{
+        margin-top: 100px;
+    }
+    
+    #header-image{
+        width: 100%;
+        float: right;
+        text-align: center;
+    }
+    
+    #header-text{
+        width: 100%
+    }
+    
+    #header h2{
+        font-family: 'Denk One', sans-serif;
+        font-size: 3em;
+        text-align: center;
+    }
+    
+    #header h3{
+        font-family: 'Yanone Kaffeesatz', sans-serif;
+        font-size: 2em;
+        text-align: center;
+    }
+    
+    /* body rules */
+    
+    main{
+        margin-top: 50px;
+        margin-left: auto;
+        margin-right: auto;
+    }
+    
+    .clear{
+        clear: both;
+    }
+    
+    /* introduction */
+    
+    #intro{
+        margin-top: 50px;
+    }
+    
+    #intro h2{
+        font-family: 'Denk One', sans-serif;
+        text-align: center;
+        font-size: 2em;
+    }
+    
+    #intro p{
+        padding: 10px;
+        font-family: 'Yanone Kaffeesatz', sans-serif;
+        font-size: 1.5em;
+    }
+    
+    /* three episodes */
+    
+    #all-eps{
+        margin-top: 50px;
+    }
+    
+    #all-eps h2{
+        font-family: 'Denk One', sans-serif;
+        text-align: center;
+        font-size: 2em;
+    }
+    
+    #all-eps a{
+        font-family: 'Yanone Kaffeesatz', sans-serif;
+        color: #000000;
+    }
+
+    #all-eps a:hover{
+        color: #e67e00;
+    }
+
+    #ep-1{
+        margin-top: 50px;
+    }
+
+    .videowrapper {
+        position: relative;
+        padding-bottom: 56.25%;
+        height: 0;
+    }
+    
+    .videowrapper iframe {
+      position: absolute;
+      top: 0;
+      right: 0;
+      bottom: 0;
+      left: 0;
+      height: 100%;
+      width: 100%;
+      z-index: 0;
+    }
+    
+    #text-1{
+        width: 100%;
+        margin-top: 25px;
+    }
+    
+    #text-1 h2{
+        padding-top: 10px;
+        padding-bottom: 10px;
+        text-align: center;
+        font-family: 'Denk One', sans-serif;
+        font-size: 2em;
+    }
+    
+    #text-1 p{
+        padding: 10px;
+        font-family: 'Yanone Kaffeesatz', sans-serif;
+        font-size: 1.5em;
+    }
+    
+    #ep-2{
+        margin-top: 50px;
+    }
+    
+    #text-2{
+        width: 100%;
+        margin-top: 25px;
+    }
+    
+    #text-2 h2{
+        padding-top: 10px;
+        padding-bottom: 10px;
+        text-align: center;
+        font-family: 'Denk One', sans-serif;
+        font-size: 2em;
+    }
+    
+    #text-2 p{
+        padding: 10px;
+        font-family: 'Yanone Kaffeesatz', sans-serif;
+        font-size: 1.5em;
+    }
+    
+    #ep-3{
+        margin-top: 50px;
+    }
+    
+    #text-3{
+        width: 100%;
+        margin-top: 25px;
+    }
+    
+    #text-3 h2{
+        padding-top: 10px;
+        padding-bottom: 10px;
+        text-align: center;
+        font-family: 'Denk One', sans-serif;
+        font-size: 2em;
+    }
+    
+    #text-3 p{
+        padding: 10px;
+        font-family: 'Yanone Kaffeesatz', sans-serif;
+        font-size: 1.5em;
+    }
+    
+    /* contact */
+    
+    #contact{
+        margin-top: 50px;
+    }
+    
+    #contact h2{
+        text-align: center;
+        font-family: 'Denk One', sans-serif;
+        font-size: 2em;
+    }
+    
+    #contact p{
+        padding: 10px 10px;
+        font-family: 'Yanone Kaffeesatz', sans-serif;
+        font-size: 1.5em;
+        text-align: center;
+    }
+
+    #contact a{
+        font-family: 'Yanone Kaffeesatz', sans-serif;
+        color: #000000;
+    }
+
+    #contact a:hover{
+        color: #e67e00;
+    }
+    
+    /* footer */
+    
+    footer{
+        margin-top: 100px;
+        left: 0;
+        right: 0;
+        bottom: 0;
+        background-color: #e67e00;
+        padding: 10px 10px 20px 10px;
+    }
+    
+    footer p{
+        color: #ffffff;
+        text-align: center;
+        font-family: 'Yanone Kaffeesatz', sans-serif;
+        font-size: 1.2em;
+    }
+    
+    #links{
+        text-align: center;
+    }
+    
+    footer a{
+        color: #ffffff;
+        font-family: 'Yanone Kaffeesatz', sans-serif;
+        font-size: 1.2em;
+    }
+
+}
