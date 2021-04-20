@@ -29,6 +29,10 @@
         width: 100%;
     }
 
+    .nav-block{
+        display: none;
+    }
+
     #back-to-top{
         display: none;
     }
