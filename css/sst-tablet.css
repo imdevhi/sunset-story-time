@@ -17,7 +17,11 @@
     }
     
     /* navigation */
-    
+
+    header{
+        z-index:1;
+    }
+
     nav{
         margin: 0px;
         overflow: hidden;
@@ -156,6 +160,7 @@
       left: 0;
       height: 100%;
       width: 100%;
+      z-index: 0;
     }
     
     #text-1{
