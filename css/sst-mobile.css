@@ -36,6 +36,10 @@
     #back-to-top a{
         display: none;
     }
+
+    #menu{
+        padding-left: 10px;
+    }
       
     #menu a{
         display: block;
